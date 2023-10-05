@@ -32,7 +32,7 @@ Depois de criada a lista:<br>
 - Crie uma função que irá calcular a média das notas de cada aluno;<br>
 - Supondo que a média, para esse concurso é 7, verifique se cada aluno obteve sucesso ou não em entrar no concurso e mostre uma mensagem na tela.<br>
 
-Você pode visualizar o projeto através [DESSE LINK](https://gbenini.github.io/js-stage04-ex01-rocketseat) 👀
+Você pode visualizar o projeto através [DESSE LINK](https://gbenini.github.io/js-stage04-ex02-rocketseat) 👀
 
 
 
